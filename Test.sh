@@ -8,4 +8,7 @@ log
 status
 diff
 branch
+release
+Ta
+
 
